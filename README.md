@@ -16,4 +16,4 @@ To validate if you have a true and a false statement identified
  
  Hope you enjoy them
  
- Thanks to Carlos Ganoza to encourage me to publish thi work.
+ Thanks to Carlos Ganoza to encourage me to publish this work.
